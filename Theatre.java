@@ -1,6 +1,5 @@
-/*Author name : Kusalani Ransala Dandeniya
+/*Author name :K.K.W.Tharushi Dilesha Kariyawasam
 Date : 2nd March 2023
-Subject : SD II Programming (Course Work)
  */
 
 import java.io.*;
